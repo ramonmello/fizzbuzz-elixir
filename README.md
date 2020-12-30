@@ -1,12 +1,12 @@
 <h1 align="center">
 <br>
-  <!-- <img src="https://imgur.com/a/kZnByGh"  width="240"> -->
+  <img src="https://i.postimg.cc/mDBq6G61/logo-elixir.png"  width="200">
 <br>
 <br>
 GitHub Explorer
 </h1>
 
-**Solving a FizzBuzz challenge using Elixir**
+<p align="center">Solving a FizzBuzz challenge using Elixir</p>
 
 ## Instructions
 
